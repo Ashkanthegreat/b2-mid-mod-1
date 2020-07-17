@@ -223,11 +223,22 @@
           null,
           1,
           1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
       "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/models/amusement_park.rb": {
         "lines": [
+          1,
+          1,
+          null,
+          null,
           1,
           null
         ]
@@ -245,12 +256,19 @@
           null,
           1,
           1,
+          2,
+          2,
+          null,
+          null,
           null
         ]
       },
       "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/models/mechanic.rb": {
         "lines": [
           1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -298,6 +316,6 @@
         ]
       }
     },
-    "timestamp": 1595001098
+    "timestamp": 1595001615
   }
 }
