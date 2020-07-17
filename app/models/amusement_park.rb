@@ -3,4 +3,12 @@ class AmusementPark < ApplicationRecord
                         :price
 
   has_many :rides
+
+  def thrill
+    rides.average(:thrill_rating)
+  end
+
+  def alphabetical
+    rides.order(:name)
+  end
 end

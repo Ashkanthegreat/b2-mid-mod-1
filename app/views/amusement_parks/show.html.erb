@@ -1,0 +1,9 @@
+<h1><%=@amusement_park.name%></h1>
+
+<p>Admission Price: <%= @amusement_park.price %> </p>
+
+ <p> Rides: <% @amusement_park.alphabetical.each_with_index do |ride, index| %></p>
+   <p id="ride-<%= index %>"><%= ride.name%></p>
+  <% end %>
+
+  <p>Average Thrill Rating: <%= @amusement_park.thrill %> </p>
