@@ -206,11 +206,22 @@
         "lines": [
           1,
           null,
+          null,
+          1,
           null
         ]
       },
       "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/helpers/application_helper.rb": {
         "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/spec/models/amusement_park_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
           1,
           null
         ]
@@ -268,8 +279,25 @@
           1,
           null
         ]
+      },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/controllers/mechanics_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1594999783
+    "timestamp": 1595001098
   }
 }
