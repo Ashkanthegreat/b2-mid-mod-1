@@ -280,6 +280,26 @@
           null
         ]
       },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/spec/models/mechanic_ride_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/app/models/mechanic_ride.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/spec/models/mechanic_spec.rb": {
         "lines": [
           1,
@@ -356,6 +376,6 @@
         ]
       }
     },
-    "timestamp": 1595006431
+    "timestamp": 1595007108
   }
 }
