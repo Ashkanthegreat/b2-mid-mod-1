@@ -208,6 +208,7 @@
           null,
           null,
           1,
+          1,
           null,
           1,
           null
@@ -235,6 +236,53 @@
           1,
           1,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/huxley/2module/friday_challenges/b2-mid-mod-1/spec/features/mechanics/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null
         ]
@@ -319,6 +367,8 @@
           1,
           null,
           null,
+          1,
+          1,
           null
         ]
       },
@@ -344,6 +394,8 @@
           1,
           null,
           null,
+          1,
+          1,
           1,
           null
         ]
@@ -372,10 +424,14 @@
           1,
           1,
           null,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1595007108
+    "timestamp": 1595008583
   }
 }
